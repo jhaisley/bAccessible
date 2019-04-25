@@ -1,3 +1,5 @@
+[logo]: bAccessible.png "bAccessible Logo"
+![alt text][logo]
 # bAccessible
 
 bAccessible helps to ensure that we continue to build upon our campus's existing accessibility and do so in a way that reaches current and incoming students.
