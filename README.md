@@ -1,4 +1,4 @@
-[logo]: bAccessible.png "bAccessible Logo"
+[logo]: /assets/apple-touch-icon.png "bAccessible Logo"
 ![alt text][logo]
 # bAccessible
 
